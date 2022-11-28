@@ -1,0 +1,10 @@
+C:\Users\stolfaa.04\Desktop\Ukol 4 OOP\Ukol 4 OOP\obj\Debug\Ukol 4 OOP.csprojAssemblyReference.cache
+C:\Users\stolfaa.04\Desktop\Ukol 4 OOP\Ukol 4 OOP\obj\Debug\Ukol_4_OOP.Form1.resources
+C:\Users\stolfaa.04\Desktop\Ukol 4 OOP\Ukol 4 OOP\obj\Debug\Ukol_4_OOP.Properties.Resources.resources
+C:\Users\stolfaa.04\Desktop\Ukol 4 OOP\Ukol 4 OOP\obj\Debug\Ukol 4 OOP.csproj.GenerateResource.cache
+C:\Users\stolfaa.04\Desktop\Ukol 4 OOP\Ukol 4 OOP\obj\Debug\Ukol 4 OOP.csproj.CoreCompileInputs.cache
+C:\Users\stolfaa.04\Desktop\Ukol 4 OOP\Ukol 4 OOP\bin\Debug\Ukol 4 OOP.exe.config
+C:\Users\stolfaa.04\Desktop\Ukol 4 OOP\Ukol 4 OOP\bin\Debug\Ukol 4 OOP.exe
+C:\Users\stolfaa.04\Desktop\Ukol 4 OOP\Ukol 4 OOP\bin\Debug\Ukol 4 OOP.pdb
+C:\Users\stolfaa.04\Desktop\Ukol 4 OOP\Ukol 4 OOP\obj\Debug\Ukol 4 OOP.exe
+C:\Users\stolfaa.04\Desktop\Ukol 4 OOP\Ukol 4 OOP\obj\Debug\Ukol 4 OOP.pdb
