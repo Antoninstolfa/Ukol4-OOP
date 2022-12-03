@@ -16,5 +16,23 @@ namespace Ukol_4_OOP
         {
             InitializeComponent();
         }
+
+        private void button1_Click(object sender, EventArgs e)
+        {
+            NakladniAuto nakladak = new NakladniAuto(maskedTextBox1.Text, (short)numericUpDown1.Value);
+            nakladak.NalozNaklad((short)numericUpDown2.Value);
+            nakladak.VylozNaklad((short)numericUpDown3.Value);
+            odpoved.Text = nakladak.ToString();
+        }
+
+        private void button1_MouseEnter(object sender, EventArgs e)
+        {
+            button1.ForeColor = Color.Gold;
+        }
+
+        private void button1_MouseLeave(object sender, EventArgs e)
+        {
+            button1.ForeColor = Color.LawnGreen;
+        }
     }
 }

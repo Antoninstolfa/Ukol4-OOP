@@ -8,3 +8,13 @@ C:\Users\stolfaa.04\Desktop\Ukol 4 OOP\Ukol 4 OOP\bin\Debug\Ukol 4 OOP.exe
 C:\Users\stolfaa.04\Desktop\Ukol 4 OOP\Ukol 4 OOP\bin\Debug\Ukol 4 OOP.pdb
 C:\Users\stolfaa.04\Desktop\Ukol 4 OOP\Ukol 4 OOP\obj\Debug\Ukol 4 OOP.exe
 C:\Users\stolfaa.04\Desktop\Ukol 4 OOP\Ukol 4 OOP\obj\Debug\Ukol 4 OOP.pdb
+D:\GitHub\Ukol4-OOP\Ukol 4 OOP\Ukol 4 OOP\bin\Debug\Ukol 4 OOP.exe.config
+D:\GitHub\Ukol4-OOP\Ukol 4 OOP\Ukol 4 OOP\bin\Debug\Ukol 4 OOP.exe
+D:\GitHub\Ukol4-OOP\Ukol 4 OOP\Ukol 4 OOP\bin\Debug\Ukol 4 OOP.pdb
+D:\GitHub\Ukol4-OOP\Ukol 4 OOP\Ukol 4 OOP\obj\Debug\Ukol 4 OOP.csproj.AssemblyReference.cache
+D:\GitHub\Ukol4-OOP\Ukol 4 OOP\Ukol 4 OOP\obj\Debug\Ukol_4_OOP.Form1.resources
+D:\GitHub\Ukol4-OOP\Ukol 4 OOP\Ukol 4 OOP\obj\Debug\Ukol_4_OOP.Properties.Resources.resources
+D:\GitHub\Ukol4-OOP\Ukol 4 OOP\Ukol 4 OOP\obj\Debug\Ukol 4 OOP.csproj.GenerateResource.cache
+D:\GitHub\Ukol4-OOP\Ukol 4 OOP\Ukol 4 OOP\obj\Debug\Ukol 4 OOP.csproj.CoreCompileInputs.cache
+D:\GitHub\Ukol4-OOP\Ukol 4 OOP\Ukol 4 OOP\obj\Debug\Ukol 4 OOP.exe
+D:\GitHub\Ukol4-OOP\Ukol 4 OOP\Ukol 4 OOP\obj\Debug\Ukol 4 OOP.pdb
