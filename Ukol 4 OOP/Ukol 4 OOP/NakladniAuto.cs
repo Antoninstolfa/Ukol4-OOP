@@ -9,8 +9,8 @@ namespace Ukol_4_OOP
 {
     class NakladniAuto
     {
-        string spz;
-        short nosnost;
+        public string spz;
+        public short nosnost;
         short hmotnostnakladu = 0;
         public short HmotnostNakladu
         {
@@ -34,7 +34,7 @@ namespace Ukol_4_OOP
             else
             {
                 MessageBox.Show("Náklad byl naložen.");
-                hmotnostnakladu = naklad;
+                hmotnostnakladu += naklad;
             }
         }
         public void VylozNaklad(short vyloz)
@@ -46,6 +46,7 @@ namespace Ukol_4_OOP
             }
             else
             {
+                MessageBox.Show("Náklad byl yložen.");
                 hmotnostnakladu -= vyloz;
             }
         }
